@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+         <head> 
+		<title>pagina web do Lucas</title>
+         </head>
+         <body> 
+		<p>"Meu cérebro é mais do que algo meramente mortal"
+		-Ada Lovelace</p>
+         </body>
+</html>
