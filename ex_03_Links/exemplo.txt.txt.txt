@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Exemplos de Links</title>
+	</head>
+	<body>
+		<p>Esse link abre em uma nova aba</p>
+		<a href="https://www.google.com.br/">google<a>
+
+		<p>Esse link abre na mesma aba</p>
+		<a href="https://www.google.com.br/target="_self">google<a>
+	</body>
+</html>

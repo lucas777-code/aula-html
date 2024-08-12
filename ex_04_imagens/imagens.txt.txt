@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Exemplo de imagem</title>
+	</head>
+	<body>
+		<p>Inserir imagem local: </p>
+		<img src="imagem.jpg" alt="neymar comemorando a champions">
+		<p>Inserir imagem via link: </p>
+		<img src="https://www.goal.com/br/not%C3%ADcias/neymar-campeao-ligue-1-libertadores-champions-olimpiadas/ax4141sm19r7110i836jrupzy" alt="Neymar">
+	</body>
+</html>
